@@ -1,4 +1,4 @@
-# Spring Boot Simple MVC CRUD
+# Spring Boot Custom Login Page in Spring MVC
 
 ### Description
 How we can make custom login page in Spring MVC using Spring Security? 
@@ -14,5 +14,4 @@ How we can make custom login page in Spring MVC using Spring Security?
 
 ![list](https://raw.githubusercontent.com/ademberk90/spring-boot-custom-login-page/main/images/login.PNG)
 
-#### Add user
 
